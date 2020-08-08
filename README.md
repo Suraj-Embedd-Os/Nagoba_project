@@ -1,2 +1,4 @@
 # Nagoba_project
-Nagoba_Electronics
+Nagoba_Electronics project
+-ELR
+etc
